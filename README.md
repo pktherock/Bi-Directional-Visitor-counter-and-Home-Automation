@@ -1,2 +1,2 @@
-# Bi-Directional-Visitor-counter-and-Home-Automation
-full Code of project 
+Bi-Directional-Visitor-counter-and-Home-Automation
+full Code of project.
