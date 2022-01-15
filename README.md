@@ -1,2 +1,4 @@
 # Bi-Directional-Visitor-counter-and-Home-Automation
-full Code of project 
+## This is my final year project 
+ feel free to suggest me about this code!
+
